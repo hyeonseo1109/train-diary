@@ -1,5 +1,5 @@
-import { TrainScene } from "@widgets/train/ui";
+import { TrainView } from "@widgets/train/ui";
 
 export const TrainPage = () => {
-  return <TrainScene />;
+  return <TrainView />;
 };
