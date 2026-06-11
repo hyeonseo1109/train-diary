@@ -10,7 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@pixi/react": "^8.0.5",
     "@vanilla-extract/css": "^1.20.1",
+    "pixi.js": "^8.19.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
   },
